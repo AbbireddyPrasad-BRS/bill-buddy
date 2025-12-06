@@ -39,7 +39,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-700 dark:border-gray-600 mt-8 pt-4 text-center">
           <Typography variant="body2" className="text-gray-400 dark:text-gray-500">
-            © 2024 Bill Buddy. All rights reserved.
+            © 2025 Bill Buddy. All rights reserved.
           </Typography>
         </div>
       </Container>
